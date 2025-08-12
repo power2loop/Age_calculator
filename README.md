@@ -17,7 +17,12 @@ The app also prevents the user from selecting a future date.
 
 ---
 
+<img width="1047" height="810" alt="image" src="https://github.com/user-attachments/assets/c559c81f-81d5-4a56-9648-b370f347e36e" />
+
+---
+
 ## 🛠️ Technologies Used
 - **HTML5** – Structure of the page
 - **CSS3** – Styling and animations
 - **JavaScript (ES6)** – Age calculation logic and date validation
+
